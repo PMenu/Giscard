@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Poppins", sans-serif;
-  color: #365B6D;
+  color: #ffffff;
   background-image: url("../img/background.png");
   background-size: cover; /* Ensures the background covers the whole page */
   background-position: center center; /* Centers the background */
@@ -19,11 +19,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #365B6D;
+  color: #ffffff;
 }
 
 a:hover {
-  color: #365B6D;
+  color: #fcc12d;
   text-decoration: none;
 }
 
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #365B6D;
+  background: #fcc12d;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -49,11 +49,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #fcc12d;
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #365B6D;
+  background: #fcc12d;
   color: #fff;
 }
 .back-to-top.active {
@@ -85,10 +85,10 @@ section {
   margin: 15px 0 0 0;
   font-size: 32px;
   font-weight: 700;
-  color: #365B6D;
+  color: #fcc12d;
 }
 .section-title h2 span {
-  color: #365B6D;
+  color: #fcc12d;
 }
 .section-title p {
   margin: 15px auto 0 auto;
@@ -123,16 +123,16 @@ section {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  color: #365B6D;
+  color: #fcc12d;
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #365B6D;
+  border: 2px solid #fcc12d;
   border-radius: 50px;
 }
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #365B6D;
+  background: #fcc12d;
 }
 .menu #menu-flters li:last-child {
   margin-right: 0;
@@ -148,7 +148,7 @@ section {
   position: relative;
   z-index: 3;
   font-weight: 700;
-  color: #365B6D;
+  color: #ffffff;
 }
 .menu .menu-content::after {
   position: absolute;
@@ -171,7 +171,7 @@ section {
   font-style: italic;
   font-size: 14px;
   font-family: "Comic Neue", sans-serif;
-  color: #000000;
+  color: #ffffff;
 }
 
 
@@ -180,7 +180,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: none;
-  color: #365B6D;
+  color: #ffffff;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
@@ -188,7 +188,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #365B6D;
+  color: #ffffff;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -206,7 +206,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: none;
-  color: #365B6D;
+  color: #ffffff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
